@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://niqiel.github.io/Syz/sitemap.Syz.gz
